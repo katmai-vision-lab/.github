@@ -11,11 +11,12 @@ assignees: ''
 
 _One sentence: What needs to be done?_
 
-**Priority**: [ ] Low | [ ] Medium | [ ] High
+**Priority?** Low / Medium / High
 
-**Type**: [ ] Task | [ ] Feature | [ ] Bug | [ ] Research | [ ] Documentation
+**Type?** Task / Feature / Bug / Research / Documentation
 
-**Points**: [ ] 0 | [ ] 50 | [ ] 100
+**Points?** 0 / 50 / 100
+
 ---
 
 ## Context
